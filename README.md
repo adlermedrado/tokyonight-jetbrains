@@ -1,3 +1,5 @@
+**The original developer apparently abandoned the project. I created this fork with the intention of continuing and evolving the project in case he really has abandoned it.**
+
 # 🏙 Tokyo Night
 
 <!-- Plugin description -->
